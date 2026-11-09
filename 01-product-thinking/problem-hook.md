@@ -1,53 +1,13 @@
-# Problem Hook & Value Proposition: [StreamLine / RouteLogic / your initiative]
+# Problem Hook & Value Proposition (Module 1)
 
-> **Module 1 · ★ Deliverable 1.** Repo file `01-product-thinking/problem-hook.md` — part of your submission.
-> Do the lab in the **Module 1 · Exercise 2 Guide** (linked from the Module 1 deck), then click **⬇ Download .md** — it saves as this exact file. Commit it here.
-> It becomes the **Problem, Value & Hypothesis** slide of your Module 6 final deck. (Your Module 1 · Exercise 1 discovery map lands in `strategic-map.md`.)
+## Responses
+- **Chosen path, which Riverty business-unit case are you using?:** Riverty BU Collection, Digital self-service instalment planning for consumers with outstanding collection claims.
+- **Strategic crisis, based on the brief, if the company does nothing for 12 months, what happens to its market position?:** If Riverty does nothing for 12 months, fragmented self-service journeys will continue driving abandonment, unsustainable repayment agreements and avoidable agent workload. This threatens recovery performance, increases cos to collect and weakens Riverty's competitiveness as clients increasingly expect efficient, transparent and responsible digital collection services.
+- **Moment of misery, what is the user likely doing outside the product (Google, spreadsheets, a competitor) because your tool isn’t serving them?:** A consumer whose income fluctuates, cannot confidently determine what she can afford or understand the consequences of accepting a repayment plan. They are forced to calculate their budget manually, navigate confusing communications and ultimately call a collection agent to get reassurance or negotiate an affordable agreement, often repeating information she has already provided.
+- **Problem hook, summarize the business risk and user pain into one urgent sentence.:** Every consumer who abandons a confusing instalment journey or agrees to an unaffordable plan risks further financial distress, while Riverty loses recovery opportunities and absorbs avoidable collection costs.
+- **Value proposition, based on the initiative in your assigned Riverty case, what is the new value and why is it urgent to launch now?:** For consumers struggling to repay outstanding claims, we will provide a clear, trustworthy and flexible digital journey to establish affordable instalment plans, reducing abandonment and failed agreements while improving sustainable recovery and operational efficiency before fragmented journeys further erode consumer trust and client value.
 
-## 1. Chosen scenario
-
-**Path:** _StreamLine Spotlight (B2C) · RouteLogic Velocity (B2B) · my own initiative_
-
-_One line on why you picked it._
-
-## 2. The strategic crisis
-
-_The big-picture business risk. If the company does nothing for 12 months, what happens to its market position?_
-
-> If we do nothing for 12 months, the company will…
-
-## 3. The moment of misery
-
-_The specific point where the product fails the user, forcing a manual workaround (Google, spreadsheets, group texts, a competitor)._
-
-> The user is currently forced to…
-
-## 4. Problem hook
-
-_One urgent sentence fusing the business risk and the user pain, your pitch for why this is the most important thing to work on right now._
-
-> We must solve [business risk] by addressing [user pain]…
-
-## 5. Value proposition
-
-_Who it's for, the new value, and why it's urgent to launch now._
-
-> For **[who]**, we will **[value]** because **[urgent why]**.
-
-## 6. Cold-read self-review
-
-_Read your hook back as a skeptical stakeholder. If you don't feel the urgency, that's your data._
-
-| Question | Your answer |
-|---|---|
-| Is the business risk high-stakes enough to justify a new initiative? | _____ |
-| Is the moment of misery systemic, or just an edge case? | _____ |
-| Does the value proposition actually remove the obstacle? | _____ |
-
-## 7. Finalized hypothesis _(complete in Module 3)_
-
-> Based on [qual + quant evidence], I believe that [solving X] for [persona] will result in [outcome], as measured by a [X%] change in [success metric]. I will protect [guardrail metric] and make a go/no-go decision after [decision window].
-
-## Link to full artifact
-
-_[link to your Problem Hook Builder export]_
+## Cold-read your own hook
+- **Is the business risk high enough to justify a new initiative, a high-stakes threat, or a minor inconvenience?:** Yes. This is a material business risk affecting recovery performance, operating costs, client satisfaction and long-term competitiveness. Continuing to scale ineffective self-service journeys could increase both financial losses and consumer harm.
+- **Is the moment of misery a systemic problem or just an edge case?:** The case suggests a systemic problem: fragmented journeys, incomplete affordability information and failed agreements affect multiple stages of the collection process. However, the scale and primary causes of these issues still need validation through funnel analysis, agent feedback and consumer research.
+- **Does the value proposition actually remove the obstacle you identified, or is it a generic feature?:** Yes. The proposed value directly addresses consumers' difficulty understanding their debt, assessing affordability and committing to sustainable repayment plans. Success should be measured through both improved self-service completion and repayment adherence, rather than agreement creation alone.
