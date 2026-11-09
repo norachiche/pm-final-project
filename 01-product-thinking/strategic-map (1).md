@@ -1,0 +1,17 @@
+# Strategic Discovery Map (Module 1)
+
+## Responses
+- **Write one feature from the map that, if an engineer asked “why is this a priority for our 12-week roadmap?”, you honestly could not give a strategic answer for.:** The payment progress view. While it seems like a useful feature for consumers, I couldn't justify prioritising it within a 12-week roadmap. We have no evidence that a lack of payment progress visibility is a significant source of friction or that introducing it would improve plan adherence, recovery performance or reduce inbound calls. I would first validate the actual consumer need and expected business impact before allocating engineering capacity to it.
+- **Write one feature that looks “correct” for the app but has zero strategic weight, you have no idea if it helps the company make money or whether a single user actually asked for it.:** Reminders and nudges. They seem like an obvious feature for an instalment planning journey, but we have no evidence that missed payments are primarily caused by consumers forgetting their due dates. The underlying issue could be affordability, fluctuating income or a lack of trust. Without understanding the root cause, we cannot demonstrate that reminders would improve repayment adherence, recovery performance or reduce agent workload. I would validate the problem before prioritising this feature.
+- **Compare V3 to your Step 1 baseline. What changed, and is the output objectively better, did the AI get smarter, or did your added PM knowledge (JTBD, effort/impact, retention) force it to be useful?:** V1 produced a logical but generic feature map, with no clear prioritisation or rationale for investment. V3 shifted towards actual product discovery, identifying user jobs-to-be-done, potential friction points, effort/impact trade-offs and risks to sustainable repayment.
+
+The biggest improvement is that V3 starts questioning what should be built and why. For example, it identifies potential friction in ID verification and affordability checks, suggests validating these assumptions first, and explicitly addresses the tension between immediate recovery and sustainable repayment.
+
+The output is objectively more useful as a discovery starting point, although its assumptions and effort/impact rankings still need validation. The AI did not become smarter; the additional PM frameworks and strategic context guided it towards a more meaningful analysis.
+- **Key takeaway: how does this prove the PM’s role is to think while the AI’s role is to execute?:** The exercise demonstrates that AI can generate and structure ideas quickly, but the quality of its recommendations depends heavily on the strategic thinking behind the prompt.
+
+The PM brings context, customer understanding, business objectives and the ability to challenge assumptions. AI can help explore opportunities, structure trade-offs and accelerate discovery, but the PM must decide what is worth investigating, which outcomes matter and where to invest limited resources.
+
+In the Riverty case, optimising self-service rates could look successful while creating unsustainable repayment agreements. Recognising that tension, challenging the success metrics and balancing business performance with consumer fairness requires product judgement.
+
+My key takeaway: AI accelerates the work, while the PM remains accountable for the quality of the thinking and the decisions.
